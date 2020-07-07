@@ -15,7 +15,7 @@
   "author": "kcak11",
   "license": "MIT",
   "devDependencies": {
-    "electron": ">=7.2.4",
-    "electron-packager": "^13.1.1"
+    "electron": "^9.1.0",
+    "electron-packager": "^15.0.0"
   }
 }
