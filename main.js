@@ -28,7 +28,7 @@ function createWindow () {
 
   // and load the index.html of the app.
   //mainWindow.loadFile('index.html')
-  mainWindow.loadURL("https://t-i-m-e.kcak11.com/?zoom=0.5&footer=false&title=%5B%20-%20Digital%20Clock%20-%20%5D");
+  mainWindow.loadURL("https://time.kcak11.com/?zoom=0.5&footer=false&title=%5B%20-%20Digital%20Clock%20-%20%5D");
 
   // Open the DevTools.
   // mainWindow.webContents.openDevTools()
