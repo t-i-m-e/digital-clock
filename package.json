@@ -1,0 +1,21 @@
+{
+  "name": "digital-clock",
+  "version": "1.0.0",
+  "description": "A Digital Clock",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-packager . \"Digital Clock\" --overwrite"
+  },
+  "repository": "https://github.com/t-i-m-e/digital-clock",
+  "keywords": [
+    "Digital",
+    "Clock"
+  ],
+  "author": "kcak11",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^26.3.0",
+    "electron-packager": "^17.1.2"
+  }
+}
